@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermes-nonato-da-silva-a2b144232)
 
 ![Hermes GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato7&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato7&layout=compact)](https://github.com/HermesNonato7/github-readme-stats)
 
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
@@ -17,6 +18,7 @@
     <img align="center" alt="JavaScript"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img align="center" alt="HTML5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+     <img align="center" alt="Git"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ### Apaixonado por tecnologia, sou um estudante de Análise e Desenvolvimento de Sistemas e Data Science!
