@@ -19,4 +19,4 @@
     <img align="center" alt="CSS3"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### Apaixonado por tecnologia, sou um estudante de Análise eDesenvolvimento de Sistemas e Data Science!
+### Apaixonado por tecnologia, sou um estudante de Análise e Desenvolvimento de Sistemas e Data Science!
