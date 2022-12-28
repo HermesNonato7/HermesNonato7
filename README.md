@@ -21,4 +21,4 @@
     <img align="center" alt="Ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-### Apaixonado por tecnologia, sou um estudante de Análise e Desenvolvimento de Sistemas com um sonho de me tornar um excelente programador Java!
+### Apaixonado por tecnologia, sou um estudante de Análise e Desenvolvimento de Sistemas e faço bootcamp de desenvolvimento BackEnd em Java!
