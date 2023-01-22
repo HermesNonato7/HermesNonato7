@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hermes-nonato)
 
 [![Hermes GitHub stats](https://github-readme-stats.vercel.app/api?username=HermesNonato7&show_icons=true&theme=white)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato7&layout=compact)](https://github.com/HermesNonato7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HermesNonato7&layout=compact)(https://github.com/HermesNonato7/github-readme-stats)
 
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
@@ -21,4 +21,4 @@
     <img align="center" alt="Ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-### Apaixonado por tecnologia, sou um estudante de Análise e Desenvolvimento de Sistemas e faço bootcamp de desenvolvimento BackEnd em Java!
+### Sou um estudante de Análise e Desenvolvimento de Sistemas e faço bootcamp de desenvolvimento FullStack Java!
