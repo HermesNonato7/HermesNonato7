@@ -20,4 +20,4 @@
     <img align="center" alt="Ubuntu"src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-### Sou um estudante de Análise e Desenvolvimento de Sistemas e faço bootcamp de desenvolvimento FullStack Java!
+### Sou um estudante de Análise e Desenvolvimento de Sistemas e cursos de desenvolvimento Back-end Java!
