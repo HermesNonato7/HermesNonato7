@@ -80,4 +80,4 @@ Spring Security
 Spring Cloud
 
 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar!
-📫 Como chegar até mim? Me mande mensagem via [!WhatsApp](https://wa.me/<+5511945881417>)
+📫 Como chegar até mim? Me mande mensagem via [WhatsApp](https://wa.me//<+5511945881417>)
