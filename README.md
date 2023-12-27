@@ -31,6 +31,7 @@ Meu nome é Hermes Nonato da Silva, sou apaixonado por desenvolvimento Back-End,
 Meu objetivo é me tornar um excelente desenvolvedor back-end, e para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de cursos online e novos projetos e repositórios!
 
 Principais habilidades 🎆
+
 Desenvolvimento Back-End
 Criação de API REST
 Arquitetura REST e de microsserviços
@@ -38,6 +39,7 @@ Análise de dados
 Conhecimento e experiência em SQL
 
 Acadêmico 👨‍💻
+
 Graduando em Análise e Desenvolvimento de Sistemas | Centro universitário de Maringa (Unicesumar) de 2022 a 2024. Cursando.
 
 Graduado em Logística e Gestão da Cadeia de Suprimentos | Centro universitário de Maringa (Unicesumar) de 2020 a 2022. Concluído.
@@ -45,6 +47,7 @@ Graduado em Logística e Gestão da Cadeia de Suprimentos | Centro universitári
 Pretendo cursar Pós-Graduação em Desenvolvimento Java Back-end, inicio em 2024 após a cocnlusão da minha gradução.
 
 Experiências 💻
+
 2 anos de experiência teórica e prática, obtida em cursos e na faculdade, através de projetos práticos de front-end e back-end.
 
 Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para crescere em conhecimento e em maturidade para aplicar na área de Tecnologia as minhas Soft Skill adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas em cursos onle de diversas plataformas como Udemy, DIO, Coursera e em treinamentos da Oracle. 
@@ -54,6 +57,7 @@ Trabalhei como Estagiário de Logística na multinacional Siemens Energy, além 
 Embora, trabalhe atualmente, não é na àrea que pretendo seguir, por isso estou em busca da primeira porta aberta para atuar em um equipe ágil de desenvolvimento em Java e aplicar meus conhecimentos, com foco em qualidade nas entregas.
 
 Principais Tecnologias ⚡
+
 Java 11 e 17
 Javascript ES6
 Python 3
@@ -68,7 +72,7 @@ Principais Frameworks 🔨
 Spring Framework (Boot, Data JPA, Cloud e Security)
 Angular
 Principais bibliotecas 📕
-Lombok (Java)
+
 Spring Data JPA
 Spring Security
 Spring Cloud
