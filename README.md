@@ -72,10 +72,12 @@ Bancos de dados NoSQL: MongoDB e Redis
 Principais Frameworks 🔨
 Spring Framework (Boot, Data JPA, Cloud e Security)
 Angular
+
 Principais bibliotecas 📕
 
 Spring Data JPA
 Spring Security
 Spring Cloud
+
 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar!
 📫 Como chegar até mim? Me mande mensagem via Whatsapp (11) 94588-1417
