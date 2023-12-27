@@ -25,20 +25,21 @@
 
 ### Sou graduando em Análise e Desenvolvimento de Sistemas e faço cursos de desenvolvimento Back-end Java!
 
-Olá, mundo 👋
-Meu nome é Hermes Nonato da Silva, sou apaixonado por desenvolvimento Back-End, API REST, microsserviços e testes de software!
+## Olá, mundo 👋
 
-Meu objetivo é me tornar um excelente desenvolvedor back-end, e para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de cursos online e novos projetos e repositórios!
+* Meu nome é Hermes Nonato da Silva, sou apaixonado por desenvolvimento Back-End, API REST, microsserviços e testes de software!
 
-Principais habilidades 🎆
+* Meu objetivo é me tornar um excelente desenvolvedor back-end, e para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de cursos online e novos projetos e repositórios!
 
-Desenvolvimento Back-End
-Criação de API REST
-Arquitetura REST e de microsserviços
-Análise de dados
-Conhecimento e experiência em SQL
+## Principais habilidades 🎆
 
-Acadêmico 👨‍💻
+* Desenvolvimento Back-End
+* Criação de API REST
+* Arquitetura REST e de microsserviços
+* Análise de dados
+* Conhecimento e experiência em SQL
+
+## Acadêmico 👨‍💻
 
 Graduando em Análise e Desenvolvimento de Sistemas | Centro universitário de Maringa (Unicesumar) de 2022 a 2024. Cursando.
 
@@ -46,39 +47,39 @@ Graduado em Logística e Gestão da Cadeia de Suprimentos | Centro universitári
 
 Pretendo cursar Pós-Graduação em Desenvolvimento Java Back-end, inicio em 2024 após a cocnlusão da minha gradução.
 
-Experiências 💻
+## Experiências 💻
 
-2 anos de experiência teórica e prática, obtida em cursos e na faculdade, através de projetos práticos de front-end e back-end.
+* 2 anos de experiência teórica e prática, obtida em cursos e na faculdade, através de projetos práticos de front-end e back-end.
 
-Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para adiquirir o conhecimentos nas tecnologias que o merc ado mais utiliza.
+* Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para adiquirir o conhecimentos nas tecnologias que o merc ado mais utiliza.
 Possuo excelentes Soft Skills adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas e em rápido progresso em cursos online de diversas plataformas como: Udemy, DIO, Coursera e treinamentos da Oracle. 
 Concluí projetis utilizando as seguintes tecnologias: Java 17, microsserviços, API REST, Spring Boot, Kubernetes, AWS, Docker, Docker-compose, OAuth2.0, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
 
-Trabalho atualmente como Estagiário de Logística na multinacional Siemens Energy, além das atividades de gestão de transportes, realizo a análise dos dados do meu setor, conseguindo contribuir com melhorias dos processos e redução de custos de 40 a 91%.
-Embora, trabalhe atualmente, não é na àrea que pretendo seguir, por isso estou em busca da primeira porta aberta para atuar em um equipe ágil de desenvolvimento em Java e aplicar meus conhecimentos, com foco em qualidade nas entregas.
+* Trabalho atualmente como Estagiário de Logística na multinacional Siemens Energy, além das atividades de gestão de transportes, realizo a análise dos dados do meu setor, conseguindo contribuir com melhorias dos processos e redução de custos de 40 a 90%.
+* Embora, trabalhe atualmente, não é na àrea que pretendo seguir, por isso estou em busca da primeira porta aberta para atuar em um equipe ágil de desenvolvimento em Java e aplicar meus conhecimentos, com foco em qualidade nas entregas.
 
-Principais Tecnologias ⚡
+## Principais Tecnologias ⚡
 
-Java 11 e 17
-Javascript ES6
-Python 3
-Angular
-Html e Css
-Autenticação e autorização com OAuth2.0 e JWT
-Docker
-Docker-compose
-Bancos de dados Relacionais: PostgreSQL, MySQL
-Bancos de dados NoSQL: MongoDB e Redis
-Principais Frameworks 🔨
-Spring Framework (Boot, Data JPA, Cloud e Security)
-Angular
+* Java 11 e 17
+* Javascript ES6
+* Python 3
+* Angular
+* Html e Css
+* Autenticação e autorização com OAuth2.0 e JWT
+* Docker
+* Docker-compose
+* Bancos de dados Relacionais: PostgreSQL, MySQL
+* Bancos de dados NoSQL: MongoDB e Redis
+* Principais Frameworks 🔨
+* Spring Framework (Boot, Data JPA, Cloud e Security)
+* Angular
 
-Principais bibliotecas 📕
+## Principais bibliotecas 📕
 
-Spring Data JPA
-Spring Security
-Spring Cloud
+* Spring Data JPA
+* Spring Security
+* Spring Cloud
 
-💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar!
+- 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar!
 
-📫 Como chegar até mim? Me mande mensagem via [WhatsApp](https://wa.me/+5511945881417)
+- 📫 Como chegar até mim? Me mande mensagem via [WhatsApp](https://wa.me/+5511945881417)
