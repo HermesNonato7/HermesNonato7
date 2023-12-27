@@ -50,10 +50,11 @@ Experiências 💻
 
 2 anos de experiência teórica e prática, obtida em cursos e na faculdade, através de projetos práticos de front-end e back-end.
 
-Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para crescere em conhecimento e em maturidade para aplicar na área de Tecnologia as minhas Soft Skill adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas em cursos onle de diversas plataformas como Udemy, DIO, Coursera e em treinamentos da Oracle. 
-Estou atuando com tecnologias como Java 17, microsserviços, API REST, Spring Boot, Kubernetes, AWS, Docker, Docker-compose, OAuth2.0, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
+Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para adiquirir o conhecimentos nas tecnologias que o merc ado mais utiliza.
+Possuo excelentes Soft Skills adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas e em rápido progresso em cursos online de diversas plataformas como: Udemy, DIO, Coursera e treinamentos da Oracle. 
+Concluí projetis utilizando as seguintes tecnologias: Java 17, microsserviços, API REST, Spring Boot, Kubernetes, AWS, Docker, Docker-compose, OAuth2.0, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
 
-Trabalhei como Estagiário de Logística na multinacional Siemens Energy, além das atividades de gestão de transportes, realizo a análise dos dados do meu setor, conseguindo contribuir com melhorias dos processos e redução de custos de 40 a 91%.
+Trabalho atualmente como Estagiário de Logística na multinacional Siemens Energy, além das atividades de gestão de transportes, realizo a análise dos dados do meu setor, conseguindo contribuir com melhorias dos processos e redução de custos de 40 a 91%.
 Embora, trabalhe atualmente, não é na àrea que pretendo seguir, por isso estou em busca da primeira porta aberta para atuar em um equipe ágil de desenvolvimento em Java e aplicar meus conhecimentos, com foco em qualidade nas entregas.
 
 Principais Tecnologias ⚡
