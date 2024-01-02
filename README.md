@@ -41,9 +41,9 @@
 
 ## Acadêmico 👨‍💻
 
-Graduando em Análise e Desenvolvimento de Sistemas | Centro universitário de Maringa (Unicesumar) de 2022 a 2024. Cursando.
+Graduando em Análise e Desenvolvimento de Sistemas | Centro Universitário de Maringa (Unicesumar) de 2022 a 2024. Cursando.
 
-Graduado em Logística e Gestão da Cadeia de Suprimentos | Centro universitário de Maringa (Unicesumar) de 2020 a 2022. Concluído.
+Graduado em Logística e Gestão da Cadeia de Suprimentos | Centro Universitário de Maringa (Unicesumar) de 2020 a 2022. Concluído.
 
 Pretendo cursar Pós-Graduação em Desenvolvimento Java Back-end, inicio em 2024 após a cocnlusão da minha gradução.
 
@@ -52,8 +52,8 @@ Pretendo cursar Pós-Graduação em Desenvolvimento Java Back-end, inicio em 202
 * 2 anos de experiência teórica e prática, obtida em cursos e na faculdade, através de projetos práticos de front-end e back-end.
 
 * Atualmente, estou em transição de carreira, e para acelerar minha entrada na área de TI, faço cursos e me esforço para adiquirir o conhecimentos nas tecnologias que o merc ado mais utiliza.
-Possuo excelentes Soft Skills adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas e em rápido progresso em cursos online de diversas plataformas como: Udemy, DIO, Coursera e treinamentos da Oracle. 
-Concluí projetis utilizando as seguintes tecnologias: Java 17, microsserviços, API REST, Spring Boot, Kubernetes, AWS, Docker, Docker-compose, OAuth2.0, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
+Possuo excelentes Soft Skills adquiridas ao longo de 18 anos atuando em operações logísticas e Hard Skill adquiridas em diversas plataformas como: Udemy, DIO, Coursera e treinamentos da Oracle. 
+Concluí projetos utilizando as seguintes tecnologias: Java 17, API REST, Spring Boot, Microsserviços, Docker, Docker-compose, OAuth2.0, PostgreSQL, MongoDB, JWT, Apache Kafka, RabbitMQ, Kubernetes, AWS, e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
 
 * Trabalho atualmente como Estagiário de Logística na multinacional Siemens Energy, além das atividades de gestão de transportes, realizo a análise dos dados do meu setor, conseguindo contribuir com melhorias dos processos e redução de custos de 40 a 90%.
 * Embora, trabalhe atualmente, não é na àrea que pretendo seguir, por isso estou em busca da primeira porta aberta para atuar em um equipe ágil de desenvolvimento em Java e aplicar meus conhecimentos, com foco em qualidade nas entregas.
