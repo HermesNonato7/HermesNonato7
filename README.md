@@ -23,8 +23,6 @@
     <span><img height="25px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
 </div>
 
-### Sou graduando em Análise e Desenvolvimento de Sistemas e faço cursos de desenvolvimento Back-end Java!
-
 ## Olá, mundo 👋
 
 * Meu nome é Hermes Nonato da Silva, sou apaixonado por desenvolvimento Back-End, API REST, microsserviços e testes de software!
