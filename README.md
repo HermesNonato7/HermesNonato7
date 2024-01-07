@@ -9,6 +9,8 @@
 ## Tecnologias que eu utilizo, ou estou aprendendo
 
 <div style="display: inline_block"><br/>
+     </br>
+  <p align="center">  <img align="center" src="https://profile-counter.glitch.me/HermesNonato7/count.svc" /></p>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
@@ -83,7 +85,4 @@ Concluí projetos utilizando as seguintes tecnologias: Java 17, API REST, Spring
 - 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar!
 
 - 📫 Como chegar até mim? Me mande mensagem via [WhatsApp](https://wa.me/+5511945881417)
-
-  </br>
-  <p align="center">  <img align="center" src="https://profile-counter.glitch.me/HermesNonato7/count.svc" /></p>
-  
+ 
