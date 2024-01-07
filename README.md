@@ -10,7 +10,7 @@
 
 <div style="display: inline_block"><br/>
      </br>
-  <p align="center">  <img align="center" src="https://profile-counter.glitch.me/HermesNonato7/count.svc" /></p>
+  <p aligm="center">  <img aligm="center" src="https://profile-counter.glitch.me/HermesNonato7/count.svg" /></p>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
     <span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
