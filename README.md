@@ -82,5 +82,3 @@ Concluí projetos utilizando as seguintes tecnologias: Java 17, API REST, Spring
 
 - 📫 Como chegar até mim? Me mande mensagem via [WhatsApp](https://wa.me/+5511945881417)
  
-     </br>
-  <p aligm="center">  <img aligm="center" src="https://profile-counter.glitch.me/HermesNonato7/count.svg" /></p>
